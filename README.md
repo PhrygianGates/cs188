@@ -1,2 +1,2 @@
-# cs188
-my homework and projects of cs188
+# Berkeley cs188
+my homework and projects of Berkeley cs188 Fall 2018
